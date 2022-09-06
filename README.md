@@ -1,2 +1,0 @@
-# .github
-HITSZ MAS Lab
