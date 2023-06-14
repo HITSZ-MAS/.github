@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Multi-Agent System Lab led by [Prof. Jie Mei](http://faculty.hitsz.edu.cn/meijie). Our group is part of Harbin Institute of Technology(Shenzhen), School of Mechanical Engineering and Automation.
+Welcome to Multi-Agent System Lab led by [Prof. Jie Mei](http://faculty.hitsz.edu.cn/meijie). Our group is part of [Harbin Institute of Technology(Shenzhen)](http://en.hitsz.edu.cn/), [School of Mechanical Engineering and Automation](http://smea.hitsz.edu.cn/).
 
 Our research interests are in mobile robots and multi-agent systems. If you are interested in joining our lab, please feel free to contact us.
 
