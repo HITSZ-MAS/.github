@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Hrer is MAS Lab, supervised by [Jie Mei](https://scholar.google.com/citations?hl=zh-CN&user=tyQm5IkAAAAJ). Our research interests are in mobile robots and multi-agent systems. If you are interested in our lab, please feel free to contact jmei@hit.edu.cn.
+Welcome to Multi-Agent System Lab led by [Prof. Jie Mei](http://faculty.hitsz.edu.cn/meijie). Our group is part of Harbin Institute of Technology(Shenzhen), School of Mechanical Engineering and Automation.
+
+Our research interests are in mobile robots and multi-agent systems. If you are interested in joining our lab, please feel free to contact us.
+
+**Email**: jmei@hit.edu.cn.
 
 <!--
 
