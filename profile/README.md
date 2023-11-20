@@ -4,7 +4,7 @@ Welcome to Multi-Agent System Lab led by [Prof. Jie Mei](http://faculty.hitsz.ed
 
 Our research interests are in mobile robots and multi-agent systems. If you are interested in joining our lab, please feel free to contact us.
 
-For more information, please check our [homepage](hitsz-mas.github.io/mas-lab-website/).
+For more information, please check our [homepage](https://hitsz-mas.github.io/mas-lab-website/).
 
 **Email**: jmei@hit.edu.cn.
 
