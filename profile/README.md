@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Multi-Agent System Lab led by [Prof. Guangfu Ma](https://faculty.hitsz.edu.cn/maguangfu), [Prof. Jie Mei](http://faculty.hitsz.edu.cn/meijie), [A.P. Zibo Miao](https://faculty.hitsz.edu.cn/miaozibo) and [A.P. Youmin Gong](https://faculty.hitsz.edu.cn/gongyoumin). Our group is part of [Harbin Institute of Technology(Shenzhen)](http://en.hitsz.edu.cn/), [School of Mechanical Engineering and Automation](http://smea.hitsz.edu.cn/). Our research interests are in spacecraft attitude control, multi-agent systems, robotics and quantum control. If you are interested in joining our lab, please feel free to contact us.
+Welcome to Multi-Agent System Lab led by [Prof. Guangfu Ma](https://faculty.hitsz.edu.cn/maguangfu), [Prof. Jie Mei](http://faculty.hitsz.edu.cn/meijie), [Assoc. Prof. Zibo Miao](https://faculty.hitsz.edu.cn/miaozibo) and [Asst. Prof. Youmin Gong](https://faculty.hitsz.edu.cn/gongyoumin). Our group is part of [Harbin Institute of Technology(Shenzhen)](http://en.hitsz.edu.cn/), [School of Mechanical Engineering and Automation](http://smea.hitsz.edu.cn/). Our research interests are in spacecraft attitude control, multi-agent systems, robotics and quantum control. If you are interested in joining our lab, please feel free to contact us.
 
 For more information, please check our [homepage](https://hitsz-mas.github.io/mas-lab-website/).
 
